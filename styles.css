@@ -1,0 +1,15 @@
+html {
+  font-size: 12px;
+}
+
+#myOutput {
+  margin-top: 10px;
+  border: black 1px solid;
+  border-radius: 4px;
+  height: 300px;
+  width: 300px;
+}
+
+#myOutput p {
+  padding: 5px;
+}
