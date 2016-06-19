@@ -8,11 +8,11 @@ $(document).ready(function() {
   })
 
   $('h1').click(function() {
-    alert('Something has been clicked');
+    alert('Header has been clicked');
   })
 
   $(document).on('click','p', function() {
-    alert('Something has been clicked');
+    alert('A paragraph has been clicked');
   })
 
-})
+});
